@@ -1,0 +1,7 @@
+{:project/name "Luminus"
+ :project/tagline "An all-inclusive micro-framework for web dev"
+ :project/repo-url "https://github.com/luminus-framework/luminus"
+ :project/home-page-url "http://www.luminusweb.net/"
+ :project/beginner-issues-label "beginner"
+ :project/description "Luminus is a Clojure micro-framework for web development. We have an active community that's dedicated to helping new-comers. To learn about how to get involved, please visit our contribute page: http://www.luminusweb.net/contribute. You can also stop by #luminus on Slack or IRC."
+ :record/tags "web development, framework, backend, frontend"}

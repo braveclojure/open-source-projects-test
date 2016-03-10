@@ -1,0 +1,11 @@
+{:project/name "eaml"
+ :project/tagline "Write your android styles with style"
+ :project/repo-url "https://github.com/fhur/eaml"
+ :project/home-page-url "https://github.com/fhur/eaml"
+ :project/description "eaml (pronounced e-mel) is the extended android modeling language. It is an XML preprocessor that will make your android resource definitions simple, readable, understandable and will greatly facilitate supporting several different configurations with a minimal code base.
+
+The project is still in its early stages so you will be able to have a big impact on the project.
+
+Contact me fernandohur at gmail if you want to contribute :)"
+ :project/beginner-friendly true
+ :record/tags "android, language, styles"}
