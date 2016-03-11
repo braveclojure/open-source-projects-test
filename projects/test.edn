@@ -1,0 +1,4 @@
+{:project/name "test",
+ :project/repo-url "http://test.com",
+ :project/home-page-url "http://test.com",
+ :project/description "test"}
