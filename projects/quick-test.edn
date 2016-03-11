@@ -1,6 +1,0 @@
-{:project/name "quick test",
- :project/repo-url
- "https://github.com/braveclojure/open-source-projects/",
- :project/home-page-url
- "https://github.com/braveclojure/open-source-projects/",
- :project/description "quick test"}
