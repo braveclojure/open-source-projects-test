@@ -1,0 +1,9 @@
+{:project/name "perun",
+ :project/tagline "Static site generator build with Clojure and Boot",
+ :project/repo-url "https://github.com/hashobject/perun",
+ :project/home-page-url "http://perun.io",
+ :project/beginner-issues-label "static site generator",
+ :project/description
+ "Simple, composable static site generator built on top of the Boot. Inspired by Boot task model and Metalsmith. Perun is a collection of boot tasks that you can chain together and build something custom that suits your needs.\n\nJoin Clojurians Slack perun channel https://clojurians.slack.com/messages/perun/",
+ :project/beginner-friendly true,
+ :record/tags "blog engine, static site generator"}
