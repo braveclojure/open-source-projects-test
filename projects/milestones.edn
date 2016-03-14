@@ -1,0 +1,9 @@
+{:project/name "milestones",
+ :project/tagline "The Automagic Project Scheduler Library",
+ :project/repo-url "https://github.com/turbopape/milestones",
+ :project/home-page-url "https://github.com/turbopape/milestones",
+ :project/beginner-issues-label "beginner",
+ :project/description
+ "Milestones is a Clojure library That only needs your project tasks description in order to generate the best possible schedule for you, based on priorities of scheduling you set (in terms of fields in tasks, more about this in a second).\n\nConstraints on tasks are:\n\n    Resource : i.e, which resource is needed to perform task,\n    The task duration,\n    And predecessors, i.e, which tasks need to be done before a particular task can be fired.\n\nBased on the above constraints specification, Milestones generates the Schedule if it does not detect scheduling errors, or shows you what it does not like.",
+ :project/beginner-friendly true,
+ :record/tags "Project Management, Tasks Management"}
