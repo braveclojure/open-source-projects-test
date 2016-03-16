@@ -1,0 +1,11 @@
+{:project/name "system",
+ :project/tagline
+ "A non-opinionated library whose goal is to make life in the REPL sunny ",
+ :project/repo-url "https://github.com/danielsz/system",
+ :project/home-page-url "https://github.com/danielsz/system",
+ :project/beginner-issues-label "help wanted",
+ :project/description
+ "system offers a set of readymade components and a Boot task to help with interactive development at the REPL. Typically, learning about the project means reading the README and studying the examples. But what documentation effort should be undertaken? A conversation is happening here: https://github.com/danielsz/system/issues/69\n",
+ :project/beginner-friendly true,
+ :record/tags
+ "web development, components, runtime state, duct, dependency injection"}
