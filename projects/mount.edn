@@ -1,6 +1,5 @@
 {:project/name "mount",
- :project/tagline
- "managing Clojure and ClojureScript application state since (reset)",
+ :project/tagline "managing Clojure/Script application state",
  :project/repo-url "https://github.com/tolitius/mount",
  :project/home-page-url
  "https://github.com/tolitius/mount/blob/master/README.md",
