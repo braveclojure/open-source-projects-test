@@ -1,9 +1,9 @@
-{:project/name "Yetibot"
- :project/tagline "An ambitious chat bot written in Clojure"
- :project/repo-url "https://github.com/devth/yetibot"
- :project/home-page "https://github.com/devth/yetibot"
- :project/description "You can treat Yetibot as a communal command line. It works well for:
-
-teaching: how to run internal automation, language evaluation for JS, Scala, Clojure, and Haskell productivity: automating things around Jenkins, JIRA, running SSH commands on various servers, and interacting with internal APIs via private yetibot plugins fun: google image search, gif lookups, meme generation
-
-Get involved by contributing bug fixes or features, or chat with @devth on Twitter or Freenode."}
+{:project/name "Yetibot",
+ :project/tagline "An ambitious chat bot written in Clojure",
+ :project/repo-url "https://github.com/devth/yetibot",
+ :project/home-page-url "http://yetibot.com",
+ :project/beginner-issues-label "beginner",
+ :project/description
+ "You can treat Yetibot as a communal command line. It works well for:\n\nteaching: how to run internal automation, language evaluation for JS, Scala, Clojure, and Haskell productivity: automating things around Jenkins, JIRA, running SSH commands on various servers, and interacting with internal APIs via private yetibot plugins fun: google image search, gif lookups, meme generation\n\nGet involved by contributing bug fixes or features, or chat with @devth on Twitter or Freenode.",
+ :project/beginner-friendly true,
+ :record/tags "chat, automation, ops, chatops"}
