@@ -1,0 +1,8 @@
+{:project/name "Rum",
+ :project/tagline
+ "Minimal React wrapper for ClojureScript. Decomplected, extensible, simple",
+ :project/repo-url "https://github.com/tonsky/rum",
+ :project/home-page-url "https://github.com/tonsky/rum",
+ :project/description
+ "Minimal React wrapper for ClojureScript. Decomplected, extensible, simple",
+ :record/tags "web development, React, UI"}
