@@ -1,0 +1,9 @@
+{:project/name "cljsfiddle",
+ :project/tagline "Live evaluated codepad for cljs + Reagent",
+ :project/repo-url "http://gitlab.com/escherize/cljsfiddle",
+ :project/home-page-url "http://cljsfiddle.com",
+ :project/beginner-issues-label "beginner",
+ :project/description
+ "A tool to edit clojurescript using Reagent, which changes shows changes to the dom.\n\nGive it a try: http://cljsfiddle.com",
+ :project/beginner-friendly false,
+ :record/tags "clojurescript, interactive, cljsfiddle, boot, cljs"}
