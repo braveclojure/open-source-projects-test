@@ -1,4 +1,6 @@
-{:project/name "clj-pdf"
- :project/tagline "declarative PDF generator"
- :project/home-page-url "https://github.com/yogthos/clj-pdf"
- :project/description "clj-pdf uses Hiccup inspired syntax to generate PDF reports"}
+{:project/name "clj-pdf",
+ :project/tagline "declarative PDF generator",
+ :project/repo-url "https://github.com/yogthos/clj-pdf",
+ :project/home-page-url "https://github.com/yogthos/clj-pdf",
+ :project/description
+ "clj-pdf uses Hiccup inspired syntax to generate PDF reports"}
