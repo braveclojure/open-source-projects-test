@@ -1,0 +1,9 @@
+{:project/name "kezban",
+ :project/tagline "Extended Collection & Utility library for Clojure.",
+ :project/repo-url "https://github.com/ertugrulcetin/kezban",
+ :project/home-page-url "https://github.com/ertugrulcetin/kezban",
+ :project/beginner-issues-label "beginner",
+ :project/description
+ "kezban is a extended collection & utility library for Clojure.\n",
+ :project/beginner-friendly true,
+ :record/tags "web development, framework, backend, frontend"}
