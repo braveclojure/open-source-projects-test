@@ -1,6 +1,6 @@
 {:project/name "catacumba",
  :project/tagline
- "A web toolkit for Clojure build on top of Ratpack and Netty.",
+ "A web toolkit for Clojure built on top of Ratpack and Netty.",
  :project/repo-url "https://github.com/funcool/catacumba",
  :project/home-page-url "https://funcool.github.io/catacumba/latest/",
  :project/beginner-issues-label "easy",
