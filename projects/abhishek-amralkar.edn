@@ -1,7 +1,6 @@
 {:project/name "Abhishek Amralkar",
  :project/tagline "riemann-kafka-jmx",
- :project/repo-url
- "http://git@github.com:Talentica/riemann-kafka-jmx.git",
+ :project/repo-url "https://github.com/Talentica/riemann-kafka-jmx",
  :project/home-page-url
  "https://github.com/Talentica/riemann-kafka-jmx/blob/master/README.md",
  :project/description
