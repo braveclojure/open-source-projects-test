@@ -1,0 +1,10 @@
+{:project/name "Leiningen",
+ :project/tagline
+ "Automate Clojure projects without setting your hair on fire",
+ :project/repo-url "https://github.com/technomancy/leiningen",
+ :project/home-page-url "http://leiningen.org/",
+ :project/beginner-issues-label "Newbie",
+ :project/description
+ "Leiningen is for automating Clojure projects without setting your hair on fire.\n\nWe welcome potential contributors and do our best to try to make it easy to help out. Contributors who have had a single patch accepted may request commit rights as well as two free stickers.\n\n",
+ :project/beginner-friendly true,
+ :record/tags "terminal, tooling, project management"}
