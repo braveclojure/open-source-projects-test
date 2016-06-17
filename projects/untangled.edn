@@ -1,0 +1,8 @@
+{:project/name "untangled",
+ :project/tagline "A ClojureScript-based webapp framework",
+ :project/repo-url "https://github.com/untangled-web/untangled",
+ :project/home-page-url "http://untangled-web.github.io/untangled/",
+ :project/beginner-issues-label "beginner",
+ :project/description "A ClojureScript-based webapp framework",
+ :project/beginner-friendly true,
+ :record/tags "web framework, frontend, backend"}
