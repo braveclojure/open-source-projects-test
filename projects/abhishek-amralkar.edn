@@ -1,9 +1,0 @@
-{:project/name "Abhishek Amralkar",
- :project/tagline "riemann-kafka-jmx",
- :project/repo-url "https://github.com/Talentica/riemann-jmx",
- :project/home-page-url
- "https://github.com/Talentica/riemann-kafka-jmx/blob/master/README.md",
- :project/description
- "The project collects the following three metrics from all the topics of kafka systems.\n\nkafka.topics.messages-in.MeanRate\nkafka.topics.bytes-in.MeanRate\nkafka.topics.bytes-out.MeanRate\n",
- :project/beginner-friendly false,
- :record/tags "riemann, JMX, Kafka, topics"}
