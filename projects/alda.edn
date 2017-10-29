@@ -1,5 +1,5 @@
 {:project/name "alda",
- :project/tagline "A general purpose music programming language!",
+ :project/tagline "A general purpose music programming language! woo!",
  :project/repo-url "https://github.com/alda-lang/alda",
  :project/home-page-url "http://alda.io",
  :project/beginner-issues-label "low-hanging fruit",
