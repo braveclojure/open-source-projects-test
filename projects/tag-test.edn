@@ -1,0 +1,5 @@
+{:project/name "tag test",
+ :project/repo-url "https://github.com/blorp",
+ :project/home-page-url "https://github.com/blorp",
+ :project/description "Descr",
+ :record/tags "big data, music, images, cms"}
